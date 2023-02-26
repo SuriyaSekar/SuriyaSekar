@@ -5,8 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/21203447/suriya-s)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Suriya S. I am currently working in Wipro Ltd Company as Mainframe Support Engineer. I want to see myself as developer, so I'm here to learn Full Stack Web Development course. And I know Java and Selenium at medium level.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/SuriyaSekar/count.svg)
